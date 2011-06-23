@@ -1,4 +1,4 @@
-This is a cross platform dmg decryption tool. Maintained by Drake Allegrini, but credit goes to its original owner.
+This is a cross platform dmg decryption tool. Maintained by quasarboi, but credit goes to its original owner.
 
 To build, run "make linux"
 To install, run "sudo make install"
